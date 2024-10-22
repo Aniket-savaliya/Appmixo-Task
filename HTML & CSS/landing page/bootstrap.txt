@@ -1,0 +1,27 @@
+scrollto : used in navigationbar--use to automatically update links in a navigation list based on scroll position
+active : used in navigationbar--use to highlight any active content from a selection,mostly in navigationbar.
+
+method : use in hero section---use to specifies how to send form-data.
+no-gutters : use in hero section--use to remove margin and padding from row and column.
+col-md : use in hero section---use to define the width of the columns for medium screen.
+form-group : use in hero section---use to add some structure to form.
+form-control : use in hero section---use to style form element like input,select element,and textarea to give clean appearence.
+pr-md : use in hero section---use to medium padding in right side.
+pl-md : use in hero section--use to medium padding in left side.
+
+images :: get from unsplash.com
+img-fluid : use in about section---make image responsive by automatically applying the following proerties to them:max-width:100 and height:auto.
+col-lg : use in about section---large device-screen width equal to or grater than 992px.
+fst-italic : use in about section---used to make text italic.
+bx-check-double : use in about section---use to add check icon.
+
+d-flex : use in why us section---use to create flexbox container that spans the full width or the screen and the convert item into it.
+align-item-stretch : use in why us section---use to stretch item to fill cross  axis of a flexbox.
+
+collapse : use in faq section--use to show and hide content.
+toggle : use in faq section--It is used when you want to hide a section and make it appear only when a div is clicked.
+target : use in faq section-- accepts a CSS selector to apply the collapse to.
+parent : use in faq section--If we have a multiple collapses under the same parent we can use these data attributes.
+
+mb : use in contact us---use to margin bottom
+md : use in contat us--use for medium.

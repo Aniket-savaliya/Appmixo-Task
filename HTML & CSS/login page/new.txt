@@ -1,0 +1,4 @@
+liner-gardient:use for background color gardient
+object-fit:set photo in proper area or full size
+justify-content:use for set hight or width
+box-shadow:use to give a box shadow in the card
